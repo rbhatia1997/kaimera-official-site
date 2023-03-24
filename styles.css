@@ -1,0 +1,35 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+h1,
+h2,
+h3 {
+  color: #cc0000;
+}
+
+footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #222;
+  text-align: center;
+}
+
+footer p {
+  margin-bottom: 0;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.col-md-4 {
+  margin-bottom: 2rem;
+}
